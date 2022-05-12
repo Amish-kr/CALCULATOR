@@ -1,0 +1,35 @@
+body{
+  background-color: tan;
+}
+.calculator {
+  text-align: center;
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color: #Caa335;
+  padding: 15px;
+}
+.button{
+  float: left;
+  height: 50px;
+  width: 75px;
+  color: #f19953;
+  background: #fff;
+  cursor: pointer;
+  font-size: 30px;
+}
+.textbox {
+  margin: 10px 0px 5px 0px;
+  text-align: right;
+  border: none;
+  height: 130px;
+  width: 295px;
+  background-color: #F19953;
+  font-size:40px;
+}
